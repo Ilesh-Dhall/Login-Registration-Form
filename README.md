@@ -3,12 +3,16 @@
 ## 📌 Overview
 This is a **Java-based Login & Registration Form** project built using **NetBeans**. The project serves as a **front-end interface** for user authentication while storing records securely in a **MySQL database**. It intelligently detects **invalid login attempts** and **prevents unregistered users** from accessing the system using pop-up alerts.
 
+---
+
 ## 🎯 Features
 ✅ **User Registration**: New users can register with valid credentials.  
 ✅ **Secure Login**: Authenticates users by checking credentials against a MySQL database.  
 ✅ **Smart Detection**: Prevents login for unregistered users with alerts.  
 ✅ **Interactive UI**: Built using Java Swing with **NetBeans form builder**.  
 ✅ **MySQL Integration**: Stores and retrieves user data securely.  
+
+---
 
 ## 🏗️ Project Structure
 ```
@@ -35,6 +39,8 @@ This is a **Java-based Login & Registration Form** project built using **NetBean
 ├── manifest.mf
 └── README.md
 ```
+
+---
 
 ## ⚙️ Installation & Setup
 ### 1️⃣ Prerequisites  
@@ -70,6 +76,8 @@ CREATE TABLE Reg_Form (
 ```
 3. Update MyConnection.java with your database credentials.
 
+---
+
 ## 🖼️ Screenshots
 <table align="center">
   <tr>
@@ -97,8 +105,7 @@ CREATE TABLE Reg_Form (
   </tr>
 </table>
 
-
-
+---
 
 ## 🚀 Applications  
 This Java-based Login & Registration System can be used in various real-world applications, including:  
