@@ -44,7 +44,7 @@ This is a **Java-based Login & Registration Form** project built using **NetBean
 
 ### 2️⃣ Clone the Repository  
 ```sh
-https://github.com/Ilesh-Dhall/Login-Registration-Form.git
+git clone https://github.com/Ilesh-Dhall/Login-Registration-Form.git
 cd Login-Registration-Form
 ```
 
